@@ -1,3 +1,3 @@
-VCF Lerntrainer v6 Patch
+VCF Lerntrainer v6.1
 
-Im GitHub-Repository nur index.html und sw.js durch diese Versionen ersetzen. Die vorhandene questions.js, Manifest- und Icon-Dateien bleiben erhalten.
+Auf GitHub nur index.html und sw.js ersetzen. questions.js, Manifest und Icons bleiben unverändert.
