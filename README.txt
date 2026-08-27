@@ -1,13 +1,11 @@
-VCF Lerntrainer Patch v18
+VCF Lerntrainer Patch v19 - Desktop und iPhone
 
-Basis: Premium v14. Ersetzt v17 vollständig.
+Basis: Premium v14. Ersetzt alle Patches v15 bis v18.
 
+Installation:
+1. mobile-solution-patch-v19.js in das Repository-Root hochladen.
+2. sw.js ersetzen.
+3. review-patch-v15.js bis review-patch-v18.js löschen.
+4. Rest von Premium v14 unverändert lassen.
 
-Änderung:
-- Der kleine Button "👁 Lösung" erscheint sofort beim Öffnen von "Falsche Fragen wiederholen".
-- Position: direkt unter der Frage, klein rechts neben "x Antworten auswählen".
-- Er markiert ausschließlich richtige Optionen blau.
-- Er wählt nichts aus, deaktiviert nichts, wertet nichts aus und öffnet keine Erklärung.
-- Erneuter Touch auf "◉ Ausblenden" entfernt nur die blaue Hilfsmarkierung.
-- Antworten bleiben immer auswählbar.
-- Zufallszähler und Rundenende aus v16/v17 bleiben enthalten.
+Der kleine Button erscheint auf Desktop, Safari und der iPhone-Homescreen-App sofort neben "x Antworten auswählen". Er markiert nur die richtigen Optionen blau und blendet diese Markierung wieder aus. Er wählt nichts aus, sperrt nichts, wertet nichts aus und öffnet keine Erklärung.
