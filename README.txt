@@ -1,14 +1,13 @@
-VCF Lerntrainer Patch v17
+VCF Lerntrainer Patch v18
 
-Basis: Premium v14. Dieser Patch ersetzt v15 und v16 vollständig.
+Basis: Premium v14. Ersetzt v17 vollständig.
 
-Korrekturen:
-- "Richtige Antworten anzeigen" ist jetzt ein echter Ein-/Aus-Schalter.
-- Erster Touch: richtige Antworten werden blau eingeblendet.
-- Zweiter Touch: die Markierung wird wieder ausgeblendet.
-- Antwortmöglichkeiten bleiben währenddessen auswählbar.
-- Der Button zeigt keine ausführliche Erklärung mehr an.
-- Erklärung und Lösungsschalter sind voneinander unabhängig.
-- Statistik und Trefferquote werden durch das Einblenden nicht verändert.
-- Zufallsmodus zählt weiterhin von 1 bis 60 und zeigt die Originalfrage.
-- Normale und zufällige Lernrunden enden nach der letzten Frage im Startmenü.
+
+Änderung:
+- Der kleine Button "👁 Lösung" erscheint sofort beim Öffnen von "Falsche Fragen wiederholen".
+- Position: direkt unter der Frage, klein rechts neben "x Antworten auswählen".
+- Er markiert ausschließlich richtige Optionen blau.
+- Er wählt nichts aus, deaktiviert nichts, wertet nichts aus und öffnet keine Erklärung.
+- Erneuter Touch auf "◉ Ausblenden" entfernt nur die blaue Hilfsmarkierung.
+- Antworten bleiben immer auswählbar.
+- Zufallszähler und Rundenende aus v16/v17 bleiben enthalten.
