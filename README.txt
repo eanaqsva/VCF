@@ -1,3 +1,5 @@
-VCF Lerntrainer v13 Premium
+VCF Lerntrainer Premium v14
 
-Alle acht Dateien direkt in das Root-Verzeichnis des GitHub-Repositories hochladen und vorhandene Dateien ersetzen. Alte Zusatzdateien löschen.
+Alle Dateien im GitHub-Repository vollständig ersetzen.
+
+Bei Multiple-Choice-Fragen werden nach der Auswertung alle tatsächlich richtigen Antworten blau dargestellt. Nur ausgewählte falsche Antworten werden rot dargestellt. Eine insgesamt falsche Mehrfachauswahl färbt nicht mehr alle gewählten Antworten rot.
